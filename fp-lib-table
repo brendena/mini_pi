@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "USB")(type "KiCad")(uri "${KIPRJMOD}/parts/USBR-A-S-F-O-VU")(options "")(descr ""))
+  (lib (name "power")(type "KiCad")(uri "${KIPRJMOD}/parts/5-1775444-9")(options "")(descr ""))
+  (lib (name "fan")(type "KiCad")(uri "${KIPRJMOD}/parts/BM0B-ACHSS-GAN-TF")(options "")(descr ""))
+  (lib (name "heatsink")(type "KiCad")(uri "${KIPRJMOD}/parts/heatsink/heatsink.pretty")(options "")(descr ""))
+)
