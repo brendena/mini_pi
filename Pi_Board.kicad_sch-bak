@@ -26791,7 +26791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "EMC2301-1-ACZL-TR"
+		(property "Description" ""
 			(at 284.48 218.44 0)
 			(effects
 				(font
@@ -28459,7 +28459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://www.digikey.com/en/products/detail/texas-instruments/TPD2EUSB30DRTR/2193486"
+		(property "Description" ""
 			(at 413.131 290.576 0)
 			(effects
 				(font
@@ -28835,7 +28835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DF40C-100DS-0.4V(51)"
+		(property "Description" ""
 			(at 276.098 111.633 0)
 			(effects
 				(font
@@ -30451,7 +30451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://www.digikey.com/en/products/detail/texas-instruments/TPD2EUSB30DRTR/2193486"
+		(property "Description" ""
 			(at 354.838 290.576 0)
 			(effects
 				(font
@@ -30645,7 +30645,7 @@
 				)
 			)
 		)
-		(property "Value" "SDCARD_MOLEX_503398-1892"
+		(property "Value" "104031-0811"
 			(at 353.06 205.105 0)
 			(effects
 				(font
@@ -30672,7 +30672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SDCARD_MOLEX_503398-1892"
+		(property "Description" ""
 			(at 353.06 219.71 0)
 			(effects
 				(font
@@ -30815,7 +30815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DF40C-100DS-0.4V(51)"
+		(property "Description" ""
 			(at 309.88 105.41 0)
 			(effects
 				(font
